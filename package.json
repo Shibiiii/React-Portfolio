@@ -1,0 +1,20 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "User Story AS AN employer looking for candidates with experience building single-page applications I WANT to view a potential employee's deployed React portfolio of work samples SO THAT I can assess whether they're a good candidate for an open position",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^14.2.1",
+    "@testing-library/user-event": "^14.5.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^3.5.2"
+  }
+}
